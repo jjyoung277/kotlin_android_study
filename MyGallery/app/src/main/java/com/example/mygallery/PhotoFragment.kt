@@ -17,6 +17,7 @@ class PhotoFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+
         arguments?.let {
             uri = it.getString(ARG_URI)
         }

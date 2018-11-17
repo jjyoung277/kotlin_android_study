@@ -10,6 +10,7 @@ import android.view.MenuItem
 import android.view.View
 import android.view.inputmethod.EditorInfo
 import android.webkit.WebViewClient
+import android.widget.TextView
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.browse
 import org.jetbrains.anko.email
